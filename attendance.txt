@@ -13,7 +13,7 @@
 [] Jahn
 [] Jose
 [] Joyce
-[] Kelley
+[X] Kelley
 [] Kie
 [] Mahan
 [] Marquez
