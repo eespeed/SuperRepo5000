@@ -1,7 +1,7 @@
 [] Ali
 [] Allen
 [] Brunning
-[] Burkhalter
+[X] Burkhalter
 [] Butler
 [] Crenshaw
 [] Dhami
