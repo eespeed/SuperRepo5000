@@ -24,7 +24,7 @@
 [] Rajkarnikar
 [] Regmi
 [] Reich
-[] Roberts
+X Roberts
 [] Robertson
 [] Thapa
 [] Thomas
