@@ -17,7 +17,7 @@
 [] Kie
 [] Mahan
 [] Marquez
-[] Meister
+[X] Meister
 [] Nalepa
 [] Niraula
 [] Norman
