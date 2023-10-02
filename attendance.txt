@@ -10,7 +10,7 @@
 [] Frederick
 [] Gilley
 [] Gremillion
-[] Jahn
+[X] Jahn
 [] Jose
 [] Joyce
 [X] Kelley
