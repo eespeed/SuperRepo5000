@@ -12,7 +12,7 @@
 [] Gremillion
 [] Jahn
 [] Jose
-[] Joyce
+[x] Joyce
 [] Kelley
 [] Kie
 [] Mahan
