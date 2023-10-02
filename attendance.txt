@@ -18,7 +18,7 @@
 [] Mahan
 [] Marquez
 [] Meister
-[] Nalepa
+[X] Nalepa
 [] Niraula
 [] Norman
 [] Rajkarnikar
